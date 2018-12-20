@@ -1,0 +1,9 @@
+.toggle {
+    width:60px;
+    height: 60px;
+    position:fixed;
+    bottom:0;
+    right:0;
+    vertical-align: middle;
+    background: url("../../img/logo-60px.png");
+}
